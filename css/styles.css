@@ -1,11 +1,12 @@
 body {
   font-family: 'Lekton', monospace;
   font-size: 12px;
-
+  color: black;
   letter-spacing: 4px;
   padding: 10px;
   text-align: center;
   margin-top: 6cm;
+  background-color: #ece6ed;
 }
 
 a {
